@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Mathematics",
+    "teacher": "Mariam Shumm",
+    "description": "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit ",
+    "abstract": "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem",
+    "about": ["7 years xp", "Energetic", "Lots of homework"],
+    "review": [
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "picture": "",
+        "description": "lorem ipsum dolor sit amet lorem lorem ipsum dolor sit amet lorem"
+      }
+    ],
+    "courseware": [
+      "-class 1 (description of class and homework)",
+      "-class 2 (description of class and homework)", 
+      "-class 3 (description of class and homework)",
+      "-class 4 (description of class and homework)",
+      "-class 5 (description of class and homework)",
+      "-class 6 (description of class and homework)",
+      "-etc"
+    ],
+    "first_color": "#556FB5",
+    "second_color": "#D4DBEC"
+  },
+  {
+    "name": "Random Subject",
+    "teacher": "Random The Third",
+    "description": "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit ",
+    "abstract": "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem",
+    "about": ["7 years xp", "Energetic", "Lots of homework"],
+    "review": [
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "picture": "",
+        "description": "lorem ipsum dolor sit amet lorem lorem ipsum dolor sit amet lorem"
+      }
+    ],
+    "courseware": [
+      "-class 1 (description of class and homework)",
+      "-class 2 (description of class and homework)", 
+      "-class 3 (description of class and homework)",
+      "-class 4 (description of class and homework)",
+      "-class 5 (description of class and homework)",
+      "-class 6 (description of class and homework)",
+      "-etc"
+    ],
+    "first_color": "#717171",
+    "second_color": "#BFBFBF"
+  },
+  {
+    "name": "Random Subject",
+    "teacher": "Random The Third",
+    "description": "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit ",
+    "abstract": "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem",
+    "about": ["7 years xp", "Energetic", "Lots of homework"],
+    "review": [
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "picture": "",
+        "description": "lorem ipsum dolor sit amet lorem lorem ipsum dolor sit amet lorem"
+      }
+    ],
+    "courseware": [
+      "-class 1 (description of class and homework)",
+      "-class 2 (description of class and homework)", 
+      "-class 3 (description of class and homework)",
+      "-class 4 (description of class and homework)",
+      "-class 5 (description of class and homework)",
+      "-class 6 (description of class and homework)",
+      "-etc"
+    ],
+    "first_color": "#717171",
+    "second_color": "#BFBFBF"
+  },
+  {
+    "name": "Random Subject",
+    "teacher": "Random The Third",
+    "description": "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit ",
+    "abstract": "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem",
+    "about": ["7 years xp", "Energetic", "Lots of homework"],
+    "review": [
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "picture": "",
+        "description": "lorem ipsum dolor sit amet lorem lorem ipsum dolor sit amet lorem"
+      }
+    ],
+    "courseware": [
+      "-class 1 (description of class and homework)",
+      "-class 2 (description of class and homework)", 
+      "-class 3 (description of class and homework)",
+      "-class 4 (description of class and homework)",
+      "-class 5 (description of class and homework)",
+      "-class 6 (description of class and homework)",
+      "-etc"
+    ],
+    "first_color": "#717171",
+    "second_color": "#BFBFBF"
+  }
+]

@@ -1,0 +1,16 @@
+<div class="d-flex">
+  <span class="flex-grow-1 text-green text-center title-component">Instructors</span>
+  <div class="d-flex justify-content-end align-self-center view-button-container">
+    <span class="view-button text-green">
+      View
+      <i class="fa fa-pause" aria-hidden="true"></i>
+      <!-- <i class="fas fa-th-large" aria-hidden="true"></i> -->
+    </span>
+  </div>
+</div>
+
+<div class="d-flex">
+  <div *ngFor="let item of instructorList" class="col p-0">
+    <app-instructor-card [instructor]="item" ></app-instructor-card>
+  </div> 
+</div>

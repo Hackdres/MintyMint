@@ -1,0 +1,60 @@
+.instructor-card-top {
+  width: 227px;
+  /* padding: 24px 0 40px 0; */
+  margin: 12px 11px 0 7px;
+  border: none;
+  border-radius: 16px 16px 0 0;
+  /* cursor: pointer; */
+}
+
+.instructor-card-top strong {
+  display: block;
+  font-size: 15px;
+}
+
+.instructor-card-top p {
+  font-size: 10px;
+  font-weight: 700;
+  margin: 4px;
+}
+
+.instructor-card-bottom {
+  width: 227px;
+  margin: 0 11px 0 7px;
+  border: none;
+  border-radius: 0 0 7% 7% ;
+  /* padding: 34px 0 36px 0; */
+  /* cursor: pointer; */
+}
+
+.subtitle {
+  color: white;
+  font-size: 7.5px;
+  margin: 34px 0 14px;
+}
+
+.subtitlebotton {
+  color: white;
+  font-size: 7.5px;
+  margin: 28px 0 14px;
+}
+
+.circular {
+  border-radius: 50%;
+  width: 84px;
+  height: 84px;
+  /* padding: 24px 0; */
+  margin: 24px 0 26px 0;
+}
+
+.circular-preview {
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+}
+
+.square-preview {
+  width: 44px;
+  height: 44px;
+  margin: 0 0 36px 0;
+}

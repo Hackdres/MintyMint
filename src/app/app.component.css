@@ -1,0 +1,28 @@
+.page-wrapper {
+  position: relative;
+  width: calc(100% - 175px);
+  height: calc(100% - 70px);
+  left: 175px;
+}
+
+.footer-left {
+  padding-left: 44px;
+}
+
+.text-footer {
+  font-size: 14px;
+  color:grey;
+  margin: 19px 49px 0 3px;
+}
+
+.text-brand-green {
+  font-size: 14px;
+  font-weight: 700;
+  margin: 12px 0 20px 0 
+}
+
+.text-brand {
+  font-size: 14px;
+  font-weight: 500;
+  margin: 12px 0 20px 0 
+}

@@ -1,1 +1,72 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import 'assets/fonts/_fonts.scss';
+
+body {
+  font-family: 'Cabrito Sans Norm';
+}
+
+body::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  display: none;  
+}
+
+.icon {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  mask-size: 32px 32px;
+}
+.icon-landscape {
+  mask-image: url(./assets/icon/landscape.svg);
+  background: white;
+}
+.icon-menu {
+  mask-image: url(./assets/icon/menu.svg);
+  background: white;
+}
+.icon-plus {
+  margin: 8px 0 0 23px;
+  display: inline-block;
+  width: 17px;
+  height: 17px;
+  mask-size: 17px 17px;
+  mask-image: url(./assets/icon/plus.svg);
+  background: #58B092;
+}
+.icon-back-arrow {
+  margin: 0 0 6px 33px;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  mask-size: 20px 20px;
+  mask-image: url(./assets/icon/back-arrow.svg);
+  background: #58B092;
+}
+
+.text-green {
+  color: #31755E;
+}
+
+.default-cursor {
+  cursor: defaul;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.rectangle {
+  border: 1px solid;
+  background-color: #ffffff;
+  padding: 4px 5px 4px 5px;
+  font-size: 8px;
+}
+
+/* Components titles */
+.title-component {
+  font-size: 34px;
+  font-weight: bold;
+  margin-top: 26px;
+}

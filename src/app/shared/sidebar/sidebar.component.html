@@ -1,0 +1,30 @@
+<div class="content-sidebar" *ngIf="menuList.isActive">
+  <div class="d-flex align-items-start">
+    <button class="btn text-green px-0" style="padding-top: 0px;">
+      <span class="icon-plus"></span>
+      <span style="margin-left: 10px;">New {{ menuList?.newAction }}</span>
+      <!-- <i class="fa fa-plus mr-1" aria-hidden="true"></i>New {{ menuList?.newAction }} -->
+    </button>
+  </div>
+
+  <div class="search-button rounded d-flex align-items-center" >
+    <i class="fa fa-search" aria-hidden="true" ></i>    
+    <span class="text-search">{{ menuList?.newAction+'s'}} search</span>
+  </div>
+
+  <!-- <button type="button search-button" class="btn btn-outline-secondary">
+    <i class="fa fa-search" aria-hidden="true" ></i> 
+    Secondary
+  </button> -->
+
+  <div *ngFor="let menu of menuList?.items" class="content-menu">
+    <strong>{{ menu?.name }}</strong>
+    <div class="form-check" *ngFor="let sub of menu.subitems">
+      <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault"/>
+      <label class="form-check-label" for="flexCheckDefault">
+        {{ sub }}
+      </label>
+    </div>
+    <a href="#" class="seemore">See more</a>
+  </div>
+</div>

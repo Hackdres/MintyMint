@@ -1,0 +1,11 @@
+
+.view-button-container {
+  width: 175px;
+  padding: 0 40px 0 65px;
+}
+
+.view-button {
+  margin-top: 46px !important;
+  font-weight: 500;
+  font-size: 17px;
+}

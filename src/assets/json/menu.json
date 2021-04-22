@@ -1,0 +1,122 @@
+[
+  {
+    "_id": 1,
+    "index": 0,
+    "isActive": true,
+    "newAction": "Instructor",
+    "url": "instructors",
+    "name": "Instructors",
+    "items": [
+      {
+        "id": 0,
+        "name": "Subject",
+        "subitems": [
+          "Mathematics",
+          "Biology",
+          "Art Theory"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Status",
+        "subitems": [
+          "Available seats",
+          "Fully booked",
+          "On holiday"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Experience",
+        "subitems": [
+          "0 - 5 years",
+          "5 - 10 years",
+          "10 - 15 years"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Location",
+        "subitems": [
+          "Kiel, SH",
+          "Stuttgart, BW",
+          "Munich, BY"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "index": 1,
+    "isActive": true,
+    "newAction": "Subject",
+    "url": "subjects",
+    "name": "Subjects",
+    "items": [
+      {
+        "id": 0,
+        "name": "Focus",
+        "subitems": [
+          "Mathematics",
+          "Biology",
+          "Art Theory"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Status",
+        "subitems": [
+          "Available seatst",
+          "Fully booker",
+          "No exams"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Location",
+        "subitems": [
+          "Kiel, SH",
+          "Stuttgart, BW",
+          "Munich, BY"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "index": 2,
+    "isActive": true,
+    "newAction": "Event",
+    "url": "calendar",
+    "name": "Events",
+    "items": [
+      {
+        "id": 0,
+        "name": "Focus",
+        "subitems": [
+          "Mathematics",
+          "Biology",
+          "Art Theory"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Time",
+        "subitems": [
+          "Morning",
+          "Arter noon",
+          "Evening"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Location",
+        "subitems": [
+          "Kiel, SH",
+          "Stuttgart, BW",
+          "Munich, BY"
+        ]
+      }
+    ]
+  }
+]

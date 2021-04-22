@@ -1,0 +1,387 @@
+[
+  {
+    "id": 1,
+    "name": "Mariam Schumm",
+    "subject": "Mathematics",
+    "picture": "https://randomuser.me/api/portraits/women/49.jpg",
+    "description": {
+      "id": 1,
+      "title": "Description of the instructor and their background",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."},
+    "about": ["7 years xp", "Energetic", "Lots of homework"],
+    "students": [
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "picture": "https://randomuser.me/api/portraits/men/75.jpg"
+      },
+      {
+        "id": 1,
+        "name": "Rush Mcintyre",
+        "picture": "https://randomuser.me/api/portraits/women/75.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Laurie Kelley",
+        "picture": "https://randomuser.me/api/portraits/men/40.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Laurie Kelley",
+        "picture": "https://randomuser.me/api/portraits/women/41.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Laurie Kelley",
+        "picture": "https://randomuser.me/api/portraits/men/44.jpg"
+      }
+    ],
+    "recent_projects": [
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "url": "https://picsum.photos/32/32"
+      },
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "url": "https://picsum.photos/32/32"
+      },
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "url": "https://picsum.photos/32/32"
+      },
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "url": "https://picsum.photos/32/32"
+      }
+    ],
+    "review": [
+      {
+        "id": 0,
+        "name": "Name Surname",
+        "student": [
+          {
+            "name": "Name",
+            "surname": "Surname",
+            "icon": "https://randomuser.me/api/portraits/women/27.jpg"
+          }
+        ],
+        "description": "Lorem description student rewiew Lorem description student rewiew Lorem description student rewiew Lorem description student rewiew Lorem description student rewiew"
+      }
+    ],
+    "first_color": "#D4DBEC",
+    "second_color": "#556FB5"
+  },
+
+  {
+    "id": 2,
+    "name": "Lupe Reynolds",
+    "subject": "History, Geography",
+    "picture": "https://randomuser.me/api/portraits/men/7.jpg",
+    "description": {
+      "id": 1,
+      "title": "Description of the instructor and their background",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."},
+    "about": ["3 years xp", "Friendly", "Story teller"],
+    "students": [
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "picture": "https://randomuser.me/api/portraits/men/76.jpg"
+      },
+      {
+        "id": 1,
+        "name": "Rush Mcintyre",
+        "picture": "https://randomuser.me/api/portraits/women/76.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Laurie Kelley",
+        "picture": "https://randomuser.me/api/portraits/men/41.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Laurie Kelley",
+        "picture": "https://randomuser.me/api/portraits/women/42.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Laurie Kelley",
+        "picture": "https://randomuser.me/api/portraits/men/45.jpg"
+      }
+    ],
+    "recent_projects": [
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "url": "https://source.unsplash.com/32x32" 
+      },
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "url": "https://source.unsplash.com/32x32"
+      },
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "url": "https://source.unsplash.com/32x32"
+      },
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "url": "https://source.unsplash.com/32x32"
+      }
+    ],
+    "review": [
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "student": [
+          {
+            "name": "Name",
+            "surname": "Surname",
+            "icon": "https://randomuser.me/api/portraits/men/30.jpg"
+          }
+        ],
+        "description": "Lorem description student rewiew Lorem description student rewiew Lorem description student rewiew"
+      }
+    ],
+    "first_color": "#ECE6D4",
+    "second_color": "#B59B55"
+  }
+  ,
+
+  {
+    "id": 3,
+    "name": "Bianka Upton",
+    "subject": "Law, International Studies",
+    "picture": "https://randomuser.me/api/portraits/women/54.jpg",
+    "description": {
+      "id": 1,
+      "title": "Description of the instructor and their background",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."},
+    "about": ["5 years xp", "Political", "Random quizzer"],
+    "students": [
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "picture": "https://randomuser.me/api/portraits/men/77.jpg"
+      },
+      {
+        "id": 1,
+        "name": "Rush Mcintyre",
+        "picture": "https://randomuser.me/api/portraits/women/77.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Laurie Kelley",
+        "picture": "https://randomuser.me/api/portraits/men/52.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Laurie Kelley",
+        "picture": "https://randomuser.me/api/portraits/women/53.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Laurie Kelley",
+        "picture": "https://randomuser.me/api/portraits/men/46.jpg"
+      }
+    ],
+    "recent_projects": [
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "url": "https://picsum.photos/32/32"
+      },
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "url": "https://picsum.photos/32/32"
+      },
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "url": "https://picsum.photos/32/32"
+      },
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "url": "https://picsum.photos/32/32"
+      }
+    ],
+    "review": [
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "student": [
+          {
+            "name": "Name",
+            "surname": "Surname",
+            "icon": ""
+          }
+        ],
+        "description": "Lorem description student rewiew Lorem description student rewiew Lorem description student rewiew"
+      }
+    ],
+    "first_color": "#F8D3E3",
+    "second_color": "#E4508F"
+  },
+
+  {
+    "id": 4,
+    "name": "Nettie Gleichner",
+    "subject": "Micro-Biology, Chemistry",
+    "picture": "https://randomuser.me/api/portraits/women/30.jpg",
+    "description": {
+      "id": 1,
+      "title": "Description of the instructor and their background",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."},
+    "about": ["7 years xp", "Energetic", "Lots of homework"],
+    "students": [
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "picture": "https://randomuser.me/api/portraits/men/78.jpg"
+      },
+      {
+        "id": 1,
+        "name": "Rush Mcintyre",
+        "picture": "https://randomuser.me/api/portraits/women/78.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Laurie Kelley",
+        "picture": "https://randomuser.me/api/portraits/men/62.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Laurie Kelley",
+        "picture": "https://randomuser.me/api/portraits/women/63.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Laurie Kelley",
+        "picture": "https://randomuser.me/api/portraits/men/47.jpg"
+      }
+    ],
+    "recent_projects": [
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "url": "https://source.unsplash.com/32x32" 
+      },
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "url": "https://source.unsplash.com/32x32"
+      },
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "url": "https://source.unsplash.com/32x32"
+      },
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "url": "https://source.unsplash.com/32x32"
+      }
+    ],
+    "review": [
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "student": [
+          {
+            "name": "Name",
+            "surname": "Surname",
+            "icon": ""
+          }
+        ],
+        "description": "Lorem description student rewiew Lorem description student rewiew Lorem description student rewiew"
+      }
+    ],
+    "first_color": "#E6D4EC",
+    "second_color": "#9B55B5"
+  },
+
+  {
+    "id": 5,
+    "name": "Javon Considine",
+    "subject": "Sport and Fitness",
+    "picture": "https://randomuser.me/api/portraits/men/75.jpg",
+    "description": {
+      "id": 1,
+      "title": "Description of the instructor and their background",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."},
+    "about": ["3 years xp", "Energetic"],
+    "students": [
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "picture": "https://randomuser.me/api/portraits/men/79.jpg"
+      },
+      {
+        "id": 1,
+        "name": "Rush Mcintyre",
+        "picture": "https://randomuser.me/api/portraits/women/79.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Laurie Kelley",
+        "picture": "https://randomuser.me/api/portraits/men/65.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Laurie Kelley",
+        "picture": "https://randomuser.me/api/portraits/women/64.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Laurie Kelley",
+        "picture": "https://randomuser.me/api/portraits/men/48.jpg"
+      }
+    ],
+    "recent_projects": [
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "url": "https://picsum.photos/32/32"
+      },
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "url": "https://picsum.photos/32/32"
+      },
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "url": "https://picsum.photos/32/32"
+      },
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "url": "https://picsum.photos/32/32"
+      }
+    ],
+    "review": [
+      {
+        "id": 0,
+        "name": "Lessie Grant",
+        "student": [
+          {
+            "name": "Name",
+            "surname": "Surname",
+            "icon": ""
+          }
+        ],
+        "description": "Lorem description student rewiew Lorem description student rewiew Lorem description student rewiew"
+      }
+    ],
+    "first_color": "#D1E5E9",
+    "second_color": "#4698A7"
+  }
+]

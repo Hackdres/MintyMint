@@ -1,0 +1,42 @@
+<nav class="navbar navbar-expand-lg navbar-main">
+    <div class="d-flex justify-content-between align-items-center w-100">
+      <div class="col-4">
+        <span class="navbar-brand" href="#">MINTY MINT</span>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+      <div class="col-4">
+        
+          <div class="collapse navbar-collapse justify-content-center" id="navbarText">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0 ">
+              <li class="nav-item" routerLinkActive="active" #rlaI="routerLinkActive">
+                <a class="nav-link" aria-current="page" routerLink="/instructors" style="padding-bottom: 0px;" >Instructors</a>
+                <div  [class.subrayado]="rlaI.isActive"></div>
+              </li>
+              <li class="nav-item" routerLinkActive="active" #rlaS="routerLinkActive">
+                <a class="nav-link" routerLink="/subjects" style="padding-bottom: 0px;" >Subjects</a>
+                <div [class.subrayado]="rlaS.isActive"></div>
+              </li>
+              <li class="nav-item" routerLinkActive="active" #rlaC="routerLinkActive">
+                <a class="nav-link" routerLink="/calendar" style="padding-bottom: 0px;" >Calendar</a>
+                <div [class.subrayado]="rlaC.isActive"></div>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link default-cursor" style="padding-bottom: 0px;" >Students</a>
+              </li>
+            </ul>
+          </div>
+        
+      </div>
+      <div class="col-4">
+        <div class="d-flex justify-content-end">
+
+          <i class="fa fa-search" aria-hidden="true" ></i>
+          <i class="fa fa-bell" aria-hidden="true" ></i>
+          <i class="fa fa-user" aria-hidden="true" ></i>
+        </div>
+          
+      </div>
+    </div>
+  </nav>

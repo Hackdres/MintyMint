@@ -1,0 +1,61 @@
+.subject-container {
+  padding: 0;
+  margin: 11px 0 0 11px;
+  width: 995px;
+}
+
+.subject-picture { 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px 0 0 20px;
+  color: white;
+}
+
+.b2 {
+  padding: 42px 35px 28px 42px;
+  font-size: 10.5px;
+  border-radius: 0 20px 20px 0;
+}
+
+.b2 strong{  
+  font-size: 14.3px;
+}
+
+.fa-custom {
+  margin-right: 21px;
+  font-size: 14px;
+}
+
+.btn-subject {
+  color: white;
+  font-size: 8px;
+  padding: 8px 25px;
+}
+
+/* .b1 {
+  position: relative;
+}
+.b1 i { 
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
+
+/* .b1 {
+  background-color: burlywood;
+  position: relative;
+  height: 240px;
+} 
+.b1 i {
+  margin: 0;
+  background: yellow;
+  position: absolute;  
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+  
+} */

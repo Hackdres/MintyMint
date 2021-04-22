@@ -1,0 +1,26 @@
+<div class="card text-center instructor-card-top cursor-pointer" 
+    [ngStyle]="{'background-color':instructor.first_color}" (click)="openInstructorCard(instructor)" >
+  <div class="card-body" style="padding-bottom: 19px;">
+    <img [src]=instructor.picture class="mx-auto circular" alt="...">
+    <strong >{{instructor.name}}</strong>
+    <p class="card-text">{{instructor.subject}}</p>
+    <div class="d-flex justify-content-center my-4" >
+        <div class="rectangle rounded ml-1" [ngStyle]="{'border-color': instructor.second_color}"
+            *ngFor="let rectangle of instructor.about">{{rectangle}}</div>
+    </div>
+  </div>
+</div>
+<div class="card text-center instructor-card-bottom cursor-pointer" [ngStyle]="{'background-color':instructor.second_color}">
+  <span class="text-center subtitle">STUDENTS</span>
+  <div class="d-flex justify-content-center">
+    <img [src]=estudent.picture 
+    *ngFor="let estudent of instructor.students"
+    class="circular-preview" alt="...">
+  </div>
+  <span class="text-center subtitlebotton">RECENT PROYECTS</span>
+  <div class="d-flex justify-content-center">
+    <img [src]=proyect.url 
+    *ngFor="let proyect of instructor.recent_projects"
+    class="square-preview rounded mx-1" alt="...">
+  </div>
+</div>
